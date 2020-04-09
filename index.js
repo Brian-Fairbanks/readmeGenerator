@@ -22,6 +22,10 @@ const questions = [
         name: 'title'
     },
     {
+        message:"Enter badges to use for your project (formatted as:' label,message', seperated by ';'): ",
+        name: 'badges'
+    },
+    {
         message:"Enter the description of your project: ",
         name: 'description'
     },
