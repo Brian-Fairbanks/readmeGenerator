@@ -21,7 +21,6 @@ The README will be populated with the following:
   * User GitHub profile picture
   * User GitHub email
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
 ## Table of Contents
 * [User Story](#user_story)
 * [Installation](#installation)
