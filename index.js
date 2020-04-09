@@ -67,7 +67,7 @@ function init() {
         })
         .then(function(data){
             let readme = `
-![user profile image]("${data.avatar_url}")
+![user profile image](${data.avatar_url})
 # ${title}
 ## Description
 ${description}
