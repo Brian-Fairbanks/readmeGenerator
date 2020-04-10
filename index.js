@@ -38,8 +38,19 @@ const questions = [
         name: 'usage'
     },
     {
+        type:"list",
         message:"Enter information about your licensing: ",
-        name: 'license'
+        name: 'license',
+        choices:[
+            "MIT",
+            "GNU AGPLv3",
+            "GNU GPLv3",
+            "GNU LGPLv3",
+            "mpl 2.0",
+            "Apache License 2.0",
+            "Boost Software License",
+            "Unlicense"
+        ]
     },
     {
         message:"Enter the names of additional contributors: ",

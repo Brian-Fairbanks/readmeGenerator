@@ -24,10 +24,10 @@ ${data.usage}
 ${data.license}
 ## Contributing
 ${data.contributing}
-![user profile image](${gitData.avatar_url}) | ${data.email==null?"email not found":data.email}
 ## Tests
 ${data.tests}
 ## Questions
+<img src="${gitData.avatar_url}" height="75" width="75"> | ${data.email==null?"email not found":data.email}
 ${data.questions}
 `;
 }
