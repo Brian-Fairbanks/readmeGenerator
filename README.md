@@ -57,16 +57,18 @@ node index.js
 ```
 
 ## License
-n/a
+Unlicense
 
 ## Contributing
-![user profile image](https://avatars0.githubusercontent.com/u/59707181?v=4) | email not found
 
 ## Tests
 tested by hand, no aditional frameworks.
 
 ## Questions
 questions?
+Contact me at:
+
+<img src="https://avatars0.githubusercontent.com/u/59707181?v=4" height="75" width="75"> | email not found
 
 ## Demo
 ![demo of readme generation in action](https://github.com/Brian-Fairbanks/readmeGenerator/blob/master/demo.gif?raw=true)
